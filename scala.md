@@ -1,11 +1,11 @@
 #Scala cheat-sheet
 
-[Current Scala ScalaDoc][11]
-[Coursera/Scala progfun1 cheat-sheet][7]
+- [Current Scala ScalaDoc][11]
+- [Coursera/Scala progfun1 cheat-sheet][7]
 
 ##Zapis funkcii:
 
-```
+```Scala
 x => x                            // anonymous identity function
 def id(x: Any) = x                // identity function
           def g(v: Int) = v + 1
