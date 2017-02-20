@@ -1,3 +1,3 @@
-# markdown-playground
+# playground
 
-My experiemental repository to play with markdown, git features and related stuff
+My experiemental repository to play with git, markdown and other stuff
